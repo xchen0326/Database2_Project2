@@ -2,123 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eef8547a-035a-4579-a773-9c0d8b0e7140" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Indexing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F26.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F27.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F28.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F29.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F30.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F31.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F32.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F33.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F34.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F35.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F36.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F37.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F38.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F39.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F40.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F41.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F42.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F43.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F44.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F45.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F46.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F47.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F48.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F49.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F50.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F51.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F52.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F53.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F54.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F55.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F56.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F58.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F59.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F60.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F61.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F62.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F63.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F64.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F65.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F66.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F67.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F68.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F69.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F70.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F71.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F72.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F73.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F74.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F75.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F76.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F77.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F78.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F79.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F80.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F81.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F82.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F83.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F84.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F85.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F87.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F88.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F89.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F90.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F91.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F92.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F93.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F94.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F95.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F96.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F97.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F98.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2Dataset/F99.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Indexing/HashIndex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ajKlwxGJFCM578owWmvO3hRp6m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -135,7 +40,14 @@
       <recent name="C:\Users\rin\Desktop\Indexing" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArrayIndex">
+    <configuration name="ArrayIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayIndex" />
+      <module name="Indexing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashIndex" />
       <module name="Indexing" />
@@ -145,6 +57,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIndex" />
         <item itemvalue="Application.HashIndex" />
       </list>
     </recent_temporary>
@@ -172,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587243717325</updated>
       <workItem from="1587243721139" duration="643000" />
-      <workItem from="1587256436161" duration="9682000" />
+      <workItem from="1587256436161" duration="15421000" />
     </task>
     <servers />
   </component>
@@ -180,38 +93,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom" timestamp="1587314778903">
+    <state width="1397" height="178" key="GridCell.Tab.0.bottom" timestamp="1587435736266">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1587314778903" />
-    <state width="1397" height="242" key="GridCell.Tab.0.center" timestamp="1587314778900">
+    <state width="1397" height="178" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1587435736266" />
+    <state width="1397" height="178" key="GridCell.Tab.0.center" timestamp="1587435736265">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1587314778900" />
-    <state width="1397" height="242" key="GridCell.Tab.0.left" timestamp="1587314778896">
+    <state width="1397" height="178" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1587435736265" />
+    <state width="1397" height="178" key="GridCell.Tab.0.left" timestamp="1587435736265">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1587314778896" />
-    <state width="1397" height="242" key="GridCell.Tab.0.right" timestamp="1587314778901">
+    <state width="1397" height="178" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1587435736265" />
+    <state width="1397" height="178" key="GridCell.Tab.0.right" timestamp="1587435736265">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="242" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1587314778901" />
-    <state width="1397" height="178" key="GridCell.Tab.1.bottom" timestamp="1587271453563">
+    <state width="1397" height="178" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1587435736265" />
+    <state width="1397" height="178" key="GridCell.Tab.1.bottom" timestamp="1587435736375">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1587271453563" />
-    <state width="1397" height="178" key="GridCell.Tab.1.center" timestamp="1587271453563">
+    <state width="1397" height="178" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1587435736375" />
+    <state width="1397" height="178" key="GridCell.Tab.1.center" timestamp="1587435736375">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1587271453563" />
-    <state width="1397" height="178" key="GridCell.Tab.1.left" timestamp="1587271453563">
+    <state width="1397" height="178" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1587435736375" />
+    <state width="1397" height="178" key="GridCell.Tab.1.left" timestamp="1587435736375">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1587271453563" />
-    <state width="1397" height="178" key="GridCell.Tab.1.right" timestamp="1587271453563">
+    <state width="1397" height="178" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1587435736375" />
+    <state width="1397" height="178" key="GridCell.Tab.1.right" timestamp="1587435736375">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="178" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1587271453563" />
+    <state width="1397" height="178" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1587435736375" />
     <state width="727" height="467" key="XDebugger.FullValuePopup" timestamp="1587271195202">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -232,6 +145,11 @@
           <url>file://$PROJECT_DIR$/src/HashIndex.java</url>
           <line>73</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayIndex.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
