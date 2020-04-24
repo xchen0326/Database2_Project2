@@ -1,14 +1,18 @@
 import java.io.*;
 import java.util.HashMap;
 
-public class HashIndex {
+public class Index {
     HashMap<String, String> hashMap;
-
-    public HashIndex(){
+    String[] arr;
+    public Index(){
         hashMap = new HashMap<>();
+        arr = new String[5000];
     }
 
     public void initialize() throws IOException {
+        for (int i = 0; i < 5000; i++){
+            arr[i] = "";
+        }
         for (int i = 1; i < 100; i++){//a total of 99 files
             String content = readEachFile(i);
             for (int j = 1; j < 101; j++){// each file has a total of 100 records
@@ -35,6 +39,14 @@ public class HashIndex {
                     String oldVal = hashMap.get(key);
                     String newVal = oldVal + value;
                     hashMap.put(key, newVal);
+                }
+                if (arr[Integer.valueOf(key)-1].equals("")){
+                    arr[Integer.valueOf(key)-1] = value;
+                }
+                else {
+                    String oldVal = arr[Integer.valueOf(key)-1];
+                    String newVal = oldVal + value;
+                    arr[Integer.valueOf(key)-1] = newVal;
                 }
             }
         }
@@ -67,11 +79,12 @@ public class HashIndex {
     }
 
     public static void main(String[] args) throws IOException {
-        HashIndex hashIndex = new HashIndex();
+        Index index = new Index();
 //        String result = hashIndex.readEachFile(99);
 //        String record = hashIndex.readEachKey(result, 100);
 //        System.out.println(record);
-        hashIndex.initialize();
-        System.out.println(hashIndex.getHashMap().get("4037"));
+        index.initialize();
+        System.out.println(index.getHashMap().get("4037"));
+        System.out.println();
     }
 }
